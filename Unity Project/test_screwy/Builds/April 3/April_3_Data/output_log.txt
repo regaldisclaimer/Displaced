@@ -1,0 +1,36 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Thomas\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thomas\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thomas\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thomas\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Thomas\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.558651 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 694.
+Total: 0.528152 ms (FindLiveObjects: 0.022237 ms CreateObjectMapping: 0.009408 ms MarkObjects: 0.166357 ms  DeleteObjects: 0.008125 ms)
+
+UnloadTime: 0.698786 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 654.
+Total: 7.773887 ms (FindLiveObjects: 0.018816 ms CreateObjectMapping: 0.014540 ms MarkObjects: 0.118032 ms  DeleteObjects: 7.285079 ms)
+
+Joystick disconnected ("Controller (Gamepad for Xbox 360)").
+ 
+(Filename:  Line: 1256)
+

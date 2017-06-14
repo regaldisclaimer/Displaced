@@ -1,0 +1,30 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\JimEKim\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\JimEKim\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\JimEKim\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\JimEKim\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\JimEKim\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\JimEKim\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\JimEKim\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\JimEKim\Dropbox\test_screwy\Builds\April 3\April_3_Data\Managed\System.dll (this message is harmless)
+Joystick connected ("Controller (Gamepad F310)").
+ 
+(Filename:  Line: 1349)
+
+UnloadTime: 2.700196 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 694.
+Total: 0.494366 ms (FindLiveObjects: 0.019244 ms CreateObjectMapping: 0.023093 ms MarkObjects: 0.130433 ms  DeleteObjects: 0.007697 ms)
+
